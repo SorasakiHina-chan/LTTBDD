@@ -26,3 +26,19 @@ Trong tương lai, lập trình mobile cũng sẽ kết hợp nhiều hơn với
 - **Các thiết bị thông minh**
 
 Vì vậy, theo em, lập trình di động không biến mất mà sẽ **thay đổi theo hướng thông minh và hiện đại hơn**.
+
+## 3. Mô hình giáo dục HAA
+
+HAA (Horowitz Andreessen Academy) hướng tới mô hình học tập chủ động, kết hợp dự án cá nhân, khóa học và trải nghiệm làm việc thực tế. Ưu điểm là tăng tính chủ động, gắn kiến thức với sản phẩm và phù hợp với thời đại AI. Hạn chế là đòi hỏi tính tự giác cao, không phải ai cũng phù hợp và mô hình còn mới nên cần thời gian để đánh giá hiệu quả lâu dài.
+
+## 4. Internet và AI thay đổi cách học
+
+Trước Internet, người học chủ yếu dựa vào sách, thư viện và giáo viên. Internet giúp tìm kiếm thông tin nhanh hơn nhưng tạo ra vấn đề chọn lọc nguồn tin. AI tiếp tục thay đổi quá trình bằng cách cho phép người học đối thoại, tổng hợp và tạo nội dung/sản phẩm nhanh hơn.
+
+## 5. Cần học gì khi AI có thể làm nhiều việc?
+
+Cần hiểu bản chất thay vì chỉ sao chép kết quả; biết đặt câu hỏi; biết kiểm chứng thông tin và mã nguồn; đồng thời phát triển tư duy phản biện, giải quyết vấn đề và khả năng sáng tạo.
+
+## 6. Năng lực cần phát triển trong thời đại AI
+
+Các năng lực quan trọng gồm: tư duy phản biện, giải quyết vấn đề, sáng tạo, giao tiếp, làm việc nhóm, tự học và khả năng sử dụng AI một cách có trách nhiệm.
