@@ -1,0 +1,19 @@
+com.example.test1
+color black
+color white
+drawable avata
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string avatar_description
+string back
+string edit
+string student_id
+string student_name
+style Base_Theme_Test1
+style Theme_Test1
+xml backup_rules
+xml data_extraction_rules
