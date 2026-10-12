@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test1</string>
+
+    <string name="back">←</string>
+    <string name="edit">✎</string>
+    <string name="avatar_description">Ảnh đại diện</string>
+    <string name="student_name">Nguyễn Việt Thịnh</string>
+    <string name="student_id">082206012993</string>
+</resources>
